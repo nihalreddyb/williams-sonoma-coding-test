@@ -1,0 +1,30 @@
+body {
+    margin: 0 !important;
+}
+.root-component {
+    width: 100%;
+    height: auto;
+}
+.header{
+    display: flex;
+    width: 100%;
+    height: auto;
+    /* margin: 10px 0px; */
+    background-color: #555555;
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+.header-content {
+    flex: 1;
+    text-align: center;
+    margin: 0;
+    padding: 2%;
+    font-size: 28px;
+}
+.github-link {
+    padding: 2%;
+    cursor: pointer;
+}
+.content{
+
+}
