@@ -26,5 +26,7 @@ body {
     cursor: pointer;
 }
 .content{
-
+    padding: 5% 20% 5% 20%;
+    background-color: #858585;
+    box-sizing: border-box;
 }

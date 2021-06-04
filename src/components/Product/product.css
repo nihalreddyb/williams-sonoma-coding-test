@@ -1,0 +1,60 @@
+.card-wrapper {
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+.card {
+    display: grid;
+    grid-template-rows: 400px auto auto;   
+    border-radius: 5px;
+    background-color: white;
+    width: 100%;
+}
+.card-header {
+
+}
+.card-image {
+
+}
+.product-image {
+    width: 100%;
+    height: 400px;
+}
+.epmty-card-image {
+
+}
+.card-content {
+    min-height: 150px;
+    padding: 16px;
+    font-family: sans-serif;
+    background-color: #555555;
+    color: white;
+    box-sizing: border-box;
+}
+.card-title {
+    font-size: 18px;
+}
+.card-desription {
+    font-size: 16px;
+}
+.item-price {
+
+}
+.card-footer {
+
+}
+.product-link-button {
+    background-color: #555555;
+    color: #ffffff;
+    display: block;
+    padding: 16px;
+    /* font-size: 14px; */
+    width: 100%;
+    cursor: pointer;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid white;
+    font-family: sans-serif;
+}
